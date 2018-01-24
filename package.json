@@ -1,0 +1,18 @@
+{
+  "name": "test-extract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "neutrino build",
+    "start": "neutrino start"
+  },
+  "devDependencies": {
+    "@neutrinojs/react-components": "^8.0.18",
+    "neutrino": "^8.0.18",
+    "postcss-loader": "^2.0.10",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
